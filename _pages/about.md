@@ -1,12 +1,4 @@
----
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-
+About Me
 ======
 Hello! I am Tianjiao Wang, a senior undergraduate student in Computer Science at Wenzhou-Kean University.
 
