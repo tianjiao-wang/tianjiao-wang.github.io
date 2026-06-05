@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+
 ======
 Hello! I am Tianjiao Wang, a senior undergraduate student in Computer Science at Wenzhou-Kean University.
 
@@ -37,5 +37,44 @@ Selected Publications
 
 5. [An Integrated Decision Framework for Professional Sports Teams](/files/2609874.pdf).**Tianjiao Wang**, Jie Yuan and Yichen Zhu. *In Proc. of 2026 International Mathematical Contest in Modeling*.
 
-6. [cfDNA Threshold Optimization in Non-Invasive Prenatal Testing](/files/国赛.pdf).**Tianjiao Wang**, Shuyi Shi and Xubin Sun. *In Proc. of 2025 National College Student Mathematical Modeling Competition*.
-   
+6. [cfDNA Threshold Optimization in Non-Invasive Prenatal Testing (Chinese Version)](/files/国赛.pdf).**Tianjiao Wang**, Shuyi Shi and Xubin Sun. *In Proc. of 2025 National College Student Mathematical Modeling Competition*.
+
+
+Industry Experience
+------
+
+### Teaching Assistant
+
+**Wenzhou-Kean University**
+
+*Sep 2025 – Present*
+
+- Assisted instruction for Applied Algorithms & Data Structures and Computer Architecture courses.
+- Evaluated programming assignments and code submissions for over 100 undergraduate students.
+- Supported examination proctoring and grading activities to maintain academic quality standards.
+
+---
+
+### Data Analyst Intern
+
+**Beijing Qingpu Intelligent Technology Co., Ltd.**
+
+*Dec 2024 – Jan 2025*
+
+- Developed Python-based data collection and ETL workflows for industrial research datasets.
+- Extracted and standardized enterprise indicators from Excel and scientific literature sources.
+- Optimized SQL queries and database structures to improve reporting efficiency and data quality.
+- Automated data synchronization processes between backend databases and front-end platforms.
+
+---
+
+### Data Engineer Intern
+
+**Shanghai Qijiang Information Technology Co., Ltd.**
+
+*Jun 2024 – Aug 2024*
+
+- Designed and implemented scheduled offline tasks to migrate customer data into the Operational Data Store (ODS).
+- Built dimensional model tables and supported data warehouse construction for the DWD layer.
+- Developed ETL pipelines for multi-source data integration and enterprise data governance.
+- Improved data quality, consistency, and accessibility through standardized data modeling practices.
