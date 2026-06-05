@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Tianjiao Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,25 +21,21 @@ My current research interests include:
 - Biomedical Data Science
 - Computational Biology
 - Medical Artificial Intelligence
-- Machine Learning
-- Health Informatics
 - Medical Image Analysis
+- Neuroscience
 
 
 Selected Publications
 ------
-1. **Robust and Calibrated Machine Learning Models for Alzheimer's Disease Risk Prediction**.  
-   **Tianjiao Wang**.  
-   *2026 7th International Conference on Big Data & Artificial Intelligence & Software Engineering (BDAISE 2026).*
+1. Robust and Calibrated Machine Learning Models for Alzheimer's Disease Risk Prediction.**Tianjiao Wang**.*In Proc. of 7th International Conference on Big Data & Artificial Intelligence & Software Engineering* (**BDAISE 2026**).
 
-2. **Data-Driven Characterization of Urban Air Pollution Exposure and Bio-Health Pressure Patterns via Probabilistic Modeling**.  
-   **Tianjiao Wang**, Ming Chen*.  
-   *2026 2nd International Conference on Big Data and Intelligent Medicine (BDIMed 2026).*
+2. Data-Driven Characterization of Urban Air Pollution Exposure and Bio-Health Pressure Patterns via Probabilistic Modeling.**Tianjiao Wang**, Ming Chen*.*In Proc. of 2nd International Conference on Big Data and Intelligent Medicine* (**BDIMed 2026**).
 
-3. **Generating Structure-Consistent Hard Sample as Data Source for Medical Image Analysis**.  
-   **Tianjiao Wang**.  
-   *Capstone Project, Wenzhou-Kean University, 2025–Present.*
+3. Generating Structure-Consistent Hard Sample as Data Source for Medical Image Analysis.**Tianjiao Wang**.*Capstone Project, Wenzhou-Kean University*
 
-4. **Text Mining and Quantitative Analysis on A-Share Analyst Reports**.  
-   **Tianjiao Wang**.  
-   *2026 National College Student Statistical Modeling Competition.*
+4. Text Mining and Quantitative Analysis on A-Share Analyst Reports.**Tianjiao Wang**,Shuyi Shi,Xiaoqing Liu and Yujie Song*.*In Proc. of 2026 National College Student Statistical Modeling Competition*.
+
+5. An Integrated Decision Framework for Professional Sports Teams.**Tianjiao Wang**,Jie Yuan and Yichen Zhu.*In Proc. of 2026 International Mathematical Contest in Modeling*.
+
+6. cfDNA Threshold Optimization in Non-Invasive Prenatal Testing.**Tianjiao Wang**,Shuyi Shi and Xubin Sun.*In Proc. of 2025 National College Student Mathematical Modeling Competition*.
+   
