@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -23,7 +24,7 @@ My current research interests include:
 
 
 Selected Publications
-------
+======
 1. [Robust and Calibrated Machine Learning Models for Alzheimer's Disease Risk Prediction](/files/AD prediction.pdf).**Tianjiao Wang**. *In Proc. of 7th International Conference on Big Data & Artificial Intelligence & Software Engineering* (**BDAISE 2026**).
 
 2. Data-Driven Characterization of Urban Air Pollution Exposure and Bio-Health Pressure Patterns via Probabilistic Modeling.**Tianjiao Wang**, Ming Chen*. *In Proc. of 2nd International Conference on Big Data and Intelligent Medicine* (**BDIMed 2026**).
@@ -38,7 +39,7 @@ Selected Publications
 
 
 Industry Experience
-------
+======
 
 ### Teaching Assistant
 
